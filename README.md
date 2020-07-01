@@ -1,7 +1,10 @@
 仿照metasploit的风格编写的小工具
 
 1 主机发现  主要使用Python的第三方库scapy
+
+
 2 端口扫描  主要使用python自带库socket  
+
 3 包嗅探    主要使用scapy
 4 ARP投毒   scapy
 5 zip爆破    python自带库 zipfile
