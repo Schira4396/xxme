@@ -3,7 +3,7 @@ import os
 import sys
 
 
-pack_list = ['requests','scapy','colorama','pyexecjs','beautifulsoup4']
+pack_list = ['requests','scapy','colorama','pyexecjs','beautifulsoup4','prettytable']
 
 with open('requirements.txt','w',encoding='utf-8') as file:
     for i in pack_list:
